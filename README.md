@@ -6,7 +6,7 @@ This project focuses on analyzing and forecasting COVID-19 trends across the wor
   - Death cases analysis
   - Confirmed cases analysis
   - Recovered cases analysis
-  - 
+    
 Additionally, it features:
 
   - Trend analysis for active, confirmed, death, and recovered cases
