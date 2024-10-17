@@ -1,5 +1,4 @@
 # COVID-19-Global-Analysis
-COVID-19 Global Analysis and Forecasting Project
 
 This project focuses on analyzing and forecasting COVID-19 trends across the world using the most recent data. Key aspects of the analysis include:
 
